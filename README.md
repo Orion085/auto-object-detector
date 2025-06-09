@@ -32,4 +32,4 @@ An automatic object detection project built with PyTorch. This project is being 
 - [ ] Extra features
 - [ ] Final cleanup
 
-Stay tuned for daily updates!
+
