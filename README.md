@@ -30,6 +30,6 @@ An automatic object detection project built with PyTorch. This project is being 
 - [ ] Visualization
 - [ ] Testing
 - [ ] Extra features
-- [ ] Final cleanup
+- [ ] Final cleanup and testing
 
 
